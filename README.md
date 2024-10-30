@@ -1,6 +1,6 @@
 <img height="32" width="40" src="https://cdn.discordapp.com/emojis/1252424392223359089.gif"/> Kissada Waravit
 =======================================================================================================================================
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FAC25&width=435&lines=%2Ftmp+%24+gpg+--+full-generate-key;Real+name%3A+GgXII-G4M3;Email+address%3A+info%40readme.md+;pub+++rsa3072+2024-08-03+%5BSC%5D+%5Bexpires%3A+2025-08-03%5D;54586B67626D46745A5342706379424C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F3FF20&width=435&lines=%24+WHO+AM+I+%3F;%24+KISSADA+WARAVIT;%24+CELL+ME+MR.G;%24+ROUND+MAP+TO+Cybersecurity;reboot)](https://git.io/typing-svg)
 ---
 
 I'm a developer and beat maker. All coding projects are built from the ground up, from planning and designing to solving real-life problems with code. All beat details are built the same way, from conceptualizing and planning to finalizing the content with an artistic touch. Lastly, I'm very passionate about coding.
