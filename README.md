@@ -31,6 +31,27 @@ src="https://img.shields.io/twitter/follow/K_Waravit?logo=twitter&style=for-the-
 
 <a href="https://github.com/Kissada-W" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kissada-W&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<b>My TryHackme Badges</b>
+
+<p align="center">
+  <img src="https://assets.tryhackme.com/img/badges/firstfour.svg" alt="First Four" width="100" />
+  <img src="https://assets.tryhackme.com/img/badges/linux.svg" alt="Linux Competency" width="100" />
+  <img src="https://assets.tryhackme.com/img/badges/securityawareness.svg" alt="Security Awareness" width="100" />
+  <img src="https://assets.tryhackme.com/img/badges/webbed.svg" alt="Webbed" width="100" />
+  <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" alt="World Wide Web" width="100" />
+  <img src="https://assets.tryhackme.com/img/badges/streak7.svg" alt="7 Day Streak" width="100" />
+  <img src="https://assets.tryhackme.com/img/badges/ohsint.svg" alt="OhSINT" width="100" />
+  <img src="https://assets.tryhackme.com/img/badges/linuxprivesc.svg" alt="Linux PrivEsc" width="100" />
+  <img src="https://assets.tryhackme.com/img/badges/blue.svg" alt="Blue" width="100" />
+  <img src="https://assets.tryhackme.com/img/badges/introtosecurityengineering.svg" alt="Introduction to Security Engineering" width="100" />
+  <img src="https://assets.tryhackme.com/img/badges/mrrobot.svg" alt="Mr. Robot" width="100" />
+  <img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" alt="OWASP Top 10" width="100" />
+  <img src="https://assets.tryhackme.com/img/badges/careerready.svg" alt="Cyber Ready" width="100" />
+  <img src="https://assets.tryhackme.com/img/badges/hashcracker.svg" alt="Hash Cracker" width="100" />
+  <img src="https://assets.tryhackme.com/img/badges/adventofcyber4.svg" alt="Advent of Cyber 4" width="100" />
+</p>
+
+
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
